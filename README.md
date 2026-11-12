@@ -1,7 +1,11 @@
 <center>
 
+<p align="center">
+<img src="image.png" height="250">
+</p>
+  
   <p align="center">
-    ₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰
+     ₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰
 </p>
 
  <p align="center">
@@ -16,13 +20,6 @@
  </p>
 
  <p align="center">
-<img src="image.png" height="250">
-</p>
-
-
-
-
- <p align="center">
 usually offtab   ᨒ   w2i!
 <div align="center">
 
@@ -30,7 +27,7 @@ usually offtab   ᨒ   w2i!
 </div>
   
   <p align="center">
-    ⋆ ݁. ˖ 𖠰 ݁↟𐂂 ݁↟𖠰 ˖ . ݁⋆
+  .𖥔 ܁ ˖⋆ ˚❆ ⋆ ݁. ˖ 𖠰 ݁↟𐂂 ݁↟𖠰 ˖ . ݁⋆.𖥔 ܁ ˖⋆ ˚❆
 </p>
 </div>
 
