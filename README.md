@@ -1,16 +1,43 @@
-## Hi there 👋
+<center>
 
-<!--
-**dogsoldiers/dogsoldiers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    ₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰
+</p>
 
-Here are some ideas to get you started:
+ <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=5upq82gwfo651ffi4t4s6e8vn&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=true&bar_color=000000&bar_color_cover=false" width="200">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ <p align="center">
+*ੈ✩༺𝓗𝓮𝓵𝓵𝓸༻*ੈ✩
+ </p>
+
+ <p align="center">
+<img src="image.png" height="250">
+</p>
+
+
+
+
+ <p align="center">
+usually offtab   ᨒ   w2i!
+<div align="center">
+
+
+</div>
+  
+  <p align="center">
+    ⋆ ݁. ˖ 𖠰 ݁↟𐂂 ݁↟𖠰 ˖ . ݁⋆
+</p>
+</div>
+
+<div align="center">
+
+
+
+</div>
+
+<br>
